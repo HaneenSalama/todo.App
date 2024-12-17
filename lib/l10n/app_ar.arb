@@ -1,0 +1,21 @@
+{
+    "todoList" : "قائمة المهام",
+    "logout" : "تسجيل الخروج",
+    "login" : "تسجيل الدخول",
+    "email" : "البريد الالكتروني",
+    "password" : "كلمة المرور",
+    "language" : "اللغة",
+    "theme" : "مود الاضائة",
+    "addNewTask" : "اضافة مهمة جديدة",
+    "updateTask" : "التعديل على المهمة",
+    "enterTaskTitle" : "ادخل عنوان المهمة",
+    "enterTaskDescription" : "ادخل تفاصيل المهمة",
+    "selectDate" : "اختر التاريخ",
+    "addTask" : "اضافة المهمة",
+    "confirmUpdateTask" : "تأكيد تعديل المهمة",
+    "dark" : "غامق",
+    "light" : "فاتح",
+    "delete" : "حذف",
+    "edit" : "تعديل",
+    "doneTask" : "تم التنفيذ"
+}

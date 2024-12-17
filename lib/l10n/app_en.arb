@@ -1,0 +1,21 @@
+{
+    "todoList" : "To Do List",
+    "logout" : "Logout",
+    "login" : "Login",
+    "email" : "Email",
+    "password" : "Password",
+    "language" : "Language",
+    "theme" : "Theme",
+    "addNewTask" : "Add new task",
+    "updateTask" : "Update task",
+    "enterTaskTitle" : "Enter task title",
+    "enterTaskDescription" : "Enter task description",
+    "selectDate" : "Select date",
+    "addTask" : "Add task",
+    "confirmUpdateTask" : "Confirm Update Task",
+    "dark" : "Dark",
+    "light" : "Light",
+    "delete" : "Delete",
+    "edit" : "Edit",
+    "doneTask" : "Done!"
+}
